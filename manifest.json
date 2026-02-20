@@ -2,12 +2,11 @@
   "manifest_version": 3,
   "name": "SRM Auto Login",
   "short_name": "SRM Login",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto-fills the SRM campus network portal when your session expires. Works on iach and iac portals.",
 
   "permissions": [
-    "storage",
-    "tabs"
+    "storage"
   ],
 
   "host_permissions": [
